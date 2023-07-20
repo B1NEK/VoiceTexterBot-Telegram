@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VoiceTexterBot
-build_property.ProjectDir = /Users/petrbinek/Projects/VoiceTexterBot/VoiceTexterBot/
+build_property.ProjectDir = /Users/petrbinek/Desktop/projects/VoiceTexterBot-Telegram/VoiceTexterBot/

@@ -91,11 +91,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/petrbinek/Projects/VoiceTexterBot/VoiceTexterBot/VoiceTexterBot.csproj",
+      "projectUniqueName": "/Users/petrbinek/Desktop/projects/VoiceTexterBot-Telegram/VoiceTexterBot/VoiceTexterBot.csproj",
       "projectName": "VoiceTexterBot",
-      "projectPath": "/Users/petrbinek/Projects/VoiceTexterBot/VoiceTexterBot/VoiceTexterBot.csproj",
+      "projectPath": "/Users/petrbinek/Desktop/projects/VoiceTexterBot-Telegram/VoiceTexterBot/VoiceTexterBot.csproj",
       "packagesPath": "/Users/petrbinek/.nuget/packages/",
-      "outputPath": "/Users/petrbinek/Projects/VoiceTexterBot/VoiceTexterBot/obj/",
+      "outputPath": "/Users/petrbinek/Desktop/projects/VoiceTexterBot-Telegram/VoiceTexterBot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/petrbinek/.nuget/NuGet/NuGet.Config"
